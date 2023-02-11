@@ -33,3 +33,5 @@ export class QRController {
     res.status(200).json({ qr });
   }
 }
+
+// import { Controller, Get, Res } from '@nestjs/common';
