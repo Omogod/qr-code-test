@@ -14,3 +14,5 @@ export class AppService {
     res.status(200).json({ qr });
   }
 }
+
+// Path: qr-code-test/src/app.controller.ts
