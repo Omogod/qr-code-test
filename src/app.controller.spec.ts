@@ -20,3 +20,5 @@ describe('AppController', () => {
     });
   });
 });
+
+// Path: qr-code-test/src/app.service.spec.ts
